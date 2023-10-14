@@ -42,7 +42,7 @@ experience:
     company: Forage, British Airways
     company_url: ''
     company_logo: 
-    location: California
+    location: Remoto
     date_start: '2023-01-01'
     date_end: '2023-02-01'
     description: |2-

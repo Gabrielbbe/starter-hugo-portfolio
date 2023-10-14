@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Bacharelado em Estatística e Ciência de Dados
-    company: Univerisdade de São Paulo (USP)
+    company: Universidade de São Paulo (USP)
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: São Carlos, SP.
     date_start: '2019-01-01'
     date_end: ''
-    description: 
+    description: Previsão de formatura para janeiro de 2025.
 design:
   columns: '1'
 ---
