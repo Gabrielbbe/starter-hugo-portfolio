@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Oi, sou o Gabriel estudante de estatística e ciência de dados.
+👋 Atualmente sou estudante de estatística e ciência de dados na USP(Universidade de São Paulo).
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Veja um resumo do meu [currículo](/about/) e portfólio pessoal abaixo 😍.
