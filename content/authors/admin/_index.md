@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oi eu sou o Gabriel Bueno.
+title: Oi, eu sou o Gabriel e seja bem vindo ao meu site.
 
 # Is this the primary user of the site?
 superuser: true
