@@ -17,8 +17,8 @@ name = "Starter Blog"
 
 [dark]
   primary = "#000406"
-  link = "#000406"
-  link_hover = "#bbdefb"
+  link = "#2962ff"
+  link_hover = "#2962ff"
   background = "rgb(0, 0, 0)"
   home_section_odd = "rgb(0, 0, 0)"
   home_section_even = "rgb(0, 0, 0)"
