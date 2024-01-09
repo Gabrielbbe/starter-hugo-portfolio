@@ -28,10 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Aprendizado de máquina
-      tag: ML
-    - name: Análise de dados
-      tag: anl
+    - name: Projetos
+      tag: projetos
+    - name: Artigos
+      tag: artigos
 
 design:
   columns: '1'
