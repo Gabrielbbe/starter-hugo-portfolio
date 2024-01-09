@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Oi, eu sou o Gabriel Bueno e seja bem vindo ao meu site.
-title: Sinta-se a vontade para entrar em contato comigo através das minhas redes sociais ficarei feliz em ajudar.
+title: Oi, eu sou o Gabriel Bueno e seja bem vindo ao meu site. Sinta-se a vontade para entrar em contato comigo através das minhas redes sociais ficarei feliz em ajudar.
 
 # Is this the primary user of the site?
 superuser: true
