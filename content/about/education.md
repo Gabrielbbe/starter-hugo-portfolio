@@ -28,8 +28,8 @@ experience:
     company_logo: 
     location: São Carlos, SP.
     date_start: '2019-01-01'
-    date_end: ''
-    description: Previsão de formatura para janeiro de 2025.
+    date_end: '2024-06-30'
+    description: Formado em estatística e ciência de dados, durante minha graduação fiz diversos projetos pessoais para praticar minhas habilidades, estou sempre aberto a desafios e a aprender mais sobre estatística e tecnologia e conhecer novos caminhos.
 design:
   columns: '1'
 ---

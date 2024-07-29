@@ -38,9 +38,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/gabrielbbueno/
-  - icon: instagram
+  - icon: Medium
     icon_pack: fab
-    link: https://instagram.com/cien.ciadedados?igshid=NGVhN2U2NjQ0Yg==
+    link: https://medium.com/@gabrielbbr
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -56,5 +56,5 @@ social:
 #email: ""
 ---
 
- Gabriel Bueno é um estudante de Estatística e Ciência de dados e gosta da habilidade de **transformar dados** em **informações úteis para as pessoas**.
+ Gabriel Bueno é um estudante de Estatística e Ciência de dados e gosta de **transformar dados** em **informações úteis para as pessoas**.
  
