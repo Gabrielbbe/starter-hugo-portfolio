@@ -1,6 +1,6 @@
 ---
-title: O que é a regressão com função de ligação assimétrica?
-summary: 
+title: O que é a regressão binária com função de ligação assimétrica?
+summary: Explico sobre a regressão binária com função de ligação assimétrica em dados desbalanceados.
 tags : 
  - artigos
 date: 2024-07-29
