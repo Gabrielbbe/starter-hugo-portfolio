@@ -56,5 +56,5 @@ social:
 #email: ""
 ---
 
- Gabriel Bueno é um estudante de Estatística e Ciência de dados e gosta de **transformar dados** em **informações úteis para as pessoas**.
+ Gabriel Bueno é formado em Estatística e Ciência de dados e gosta de **transformar dados** em **informações úteis para as pessoas**.
  
