@@ -37,7 +37,7 @@ bio: Estatística e Ciência de dados
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/gabrielbbueno/
+    link: https://www.linkedin.com/in/gabriel-bueno-ab2215340/
   - icon: Medium
     icon_pack: fab
     link: https://medium.com/@gabrielbbr
